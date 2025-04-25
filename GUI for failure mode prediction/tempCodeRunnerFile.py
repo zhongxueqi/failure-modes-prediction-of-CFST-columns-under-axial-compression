@@ -1,0 +1,1 @@
+sizePolicy.setHorizontalStretch(5)
